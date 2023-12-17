@@ -7,7 +7,7 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=edinanorge&show_icons=true' alt='github stats'>
 
 
-I'm a Hungarian mother of two small children, based on Norway. I'm learning Front-End development at Noroff School of Technology and Digital Media. I am currently finishing my final year and am just months year away from becoming a front end developer. I'm passionate about web design and development. My future plan is to become a full stack developer.
+I'm a Hungarian mother of two small children, based on Norway. I'm learning Front-End development at Noroff School of Technology and Digital Media. I am currently finishing my final year and I am just months away from becoming a front end developer. I'm passionate about web design and development. My future plan is to become a full stack developer.
 
 
 
