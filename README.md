@@ -17,7 +17,10 @@ I'm a Hungarian mother of two small children, based on Norway. I'm learning Fron
 <img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
 <img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/sass-icon.svg" alt="SASS Icon" />
 <img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" />
-<img width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/styled-components-icon.svg" alt="Styled Components Icon" />
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" /> 
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=edinanorge&layout=compact' alt='most used languages'>
 
